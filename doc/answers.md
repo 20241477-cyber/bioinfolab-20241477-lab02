@@ -60,4 +60,4 @@ Jupyter의 버전 번호 : 2025.9.1
 
 두 확장은 강의자가 미리 넣어둔 것이라고 생각한다.
 그 이유는 .devcontainer/json에 ms-python.python과 ms-toolsal.jupyter가 미리 지정되어 있으므로,
-학생이 직접 설치한 것이 아니라 강의에서 제공한 Codespace 환경에 미리 설정되어있던 것이라고 생각하낟.
+학생이 직접 설치한 것이 아니라 강의에서 제공한 Codespace 환경에 미리 설정되어있던 것이라고 생각한다.
